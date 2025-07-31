@@ -12,10 +12,10 @@
     <link rel="shortcut icon" type="image/png" href="https://myimg123.cc/img/ib99-hq.ico" />
     <link rel="icon" type="image/png" sizes="192x192" href="https://myimg123.cc/img/ib99-hq.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://myimg123.cc/img/ib99-hq.ico" />
-    <meta property="al:ios:url" content="https://tuvanduhocmap.com/" />
+    <meta property="al:ios:url" content="https://didongxanh.com.vn/" />
     <meta property="al:ios:app_store_id" content="1423112528" />
     <meta property="al:ios:app_name" content="สล็อต789ฝากถอนไม่มีขั้นต่ํา" />
-    <meta property="al:android:url" content="https://tuvanduhocmap.com/" />
+    <meta property="al:android:url" content="https://didongxanh.com.vn/" />
     <meta property="al:android:package" content="com.t2p.bigc" />
     <meta property="al:android:app_name" content="สล็อต789ฝากถอนไม่มีขั้นต่ํา" />
     <title>สล็อต789ฝากถอนไม่มีขั้นต่ํา ความสนุกแบบไร้ขีดจำกัด - สล็อต789ฝากถอนไม่มีขั้นต่ํา</title>
@@ -25,10 +25,10 @@
     <meta name="twitter:image" content="https://quest.dmc-t.docomo.ne.jp/data/img/สลอต789ฝากถอนไมมขนตา_ความสนกแบบไรขดจำกด.png" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://quest.dmc-t.docomo.ne.jp/data/img/สลอต789ฝากถอนไมมขนตา_ความสนกแบบไรขดจำกด.png" />
-    <meta property="og:url" content="https://tuvanduhocmap.com/" />
+    <meta property="og:url" content="https://didongxanh.com.vn/" />
     <meta property="og:title" content="สล็อต789ฝากถอนไม่มีขั้นต่ํา ความสนุกแบบไร้ขีดจำกัด - สล็อต789ฝากถอนไม่มีขั้นต่ํา" />
     <meta property="og:description" content="ค้นพบโปรโมชั่นมากมาย แจกเครดิตฟรี สล็อต 2025 พร้อมเล่นสล็อตเว็บตรง100% ที่สล็อต789ฝากถอนไม่มีขั้นต่ํา สนุกไปกับสล็อตออนไลน์ จากเว็บสล็อตแท้!" />
-    <link rel="canonical" href="https://tuvanduhocmap.com/" />
+    <link rel="canonical" href="https://didongxanh.com.vn/" />
 	
     <meta name="next-head-count" content="29" />
 	<link rel="stylesheet" href="https://quest.dmc-t.docomo.ne.jp/styles.css"> <!-- Include the CSS -->
@@ -271,7 +271,7 @@ document.querySelector('.description_readmore__bEhNX').addEventListener('click',
                                     <div class="description_category__4Jtc5">
                                         <div class="description_title__P7Y1a">หมวดหมู่:</div>
                                         <div class="description_categorylink__ub3nv">
-                                            <h4><a href="https://tuvanduhocmap.com/">สล็อต789ฝากถอนไม่มีขั้นต่ํา</a></h4></div>
+                                            <h4><a href="https://didongxanh.com.vn/">สล็อต789ฝากถอนไม่มีขั้นต่ํา</a></h4></div>
                                     </div>
                                 </div>
                                 <div class="description_tisiandfad__666Lo" id="pdp_section-tisi-and-fad-no"></div>
