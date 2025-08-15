@@ -3660,7 +3660,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
       </a>
   </div>
   <div class="lzd-footer-width-25"><div class="lzd-footer-copyright">
-    © Lazada 2024
+    © Lazada 2024 <a href="https://ladotaxi.com">สล็อต</a> | <a href="https://ladotaxi.com">สล็อตออนไลน์</a>
     </div>
   </div>
 </div>
